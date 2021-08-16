@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleDagger2MVP</string>
+    <string name="label_top">Top</string>
+    <string name="label_near_you">Near You</string>
+    <string name="label_sports">Sports</string>
+    <string name="label_gaming">Gaming</string>
+</resources>
